@@ -1,0 +1,7 @@
+//GET https://cse341-node-zjc2.onrender.com/users
+//GET https://cse341-node-zjc2.onrender.com/users/677ff0e2cc4e5b7678ec90b5
+
+
+
+//GET http://localhost:3000/users/
+//GET http://localhost:3000/users/677ff098cc4e5b7678ec90b4
